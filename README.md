@@ -131,7 +131,9 @@ int main()
 
 <br>
 # Output: 
-![exp5](https://github.com/user-attachments/assets/55bebac7-4b92-4051-aa78-c8395b2c7507)
+
+![exp5](https://github.com/user-attachments/assets/7ddd6a66-374b-4341-b217-91356c6b414e)
+
 
 # Conclusion
 
